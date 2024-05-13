@@ -1,0 +1,2 @@
+Logovanie
+Aplikaciu dalej rozdelit na microservisy ktore by boli dalej skalovatelne
